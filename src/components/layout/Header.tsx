@@ -46,7 +46,7 @@ export default function Header(): JSX.Element {
                 Home
               </Button>
             </Link>
-            <Link href="#" passHref>
+            <Link href="fusion" passHref>
               <Button
                 sx={headerButton}
                 // color={router.pathname === "/" ? "primary" : "secondary"}
